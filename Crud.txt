@@ -2,4 +2,5 @@ Crud resolusy
 - bljr buat projek
 - membuat form diskusi
 - membuat form baru
+  web terbaru
  - menambahkan dasar baru
