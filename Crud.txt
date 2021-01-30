@@ -1,0 +1,4 @@
+Crud resolusy
+- bljr buat projek
+- buat untuk mengelola video
+- membuat form diskusi
