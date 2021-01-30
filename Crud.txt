@@ -3,4 +3,5 @@ Crud resolusy
 - membuat form diskusi
  dikusi web  
 - membuat form baru
+  web terbaru
  - menambahkan dasar baru
