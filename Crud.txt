@@ -2,3 +2,4 @@ Crud resolusy
 - bljr buat projek
 - membuat form diskusi
 - membuat form baru
+ - menambahkan dasar baru
